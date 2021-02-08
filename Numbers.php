@@ -16,3 +16,4 @@ var_dump(is_int($x));
 
 </body>
 </html>
+ // Returns true if value is a number or a numeric string, false otherwise.
